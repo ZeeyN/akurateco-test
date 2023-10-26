@@ -1,0 +1,21 @@
+{
+    "name": "nikita-rusakov/akurateco-test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NikitaRusakov\\AkuratecoTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Rusakov",
+            "email": "zeeynnik@gmail.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "*",
+        "phpmd/phpmd": "*",
+      "ext-curl": "*"
+    }
+}
