@@ -16,6 +16,7 @@
     "require": {
         "squizlabs/php_codesniffer": "*",
         "phpmd/phpmd": "*",
-      "ext-curl": "*"
+        "ext-curl": "*",
+        "php": ">=8.1"
     }
 }
